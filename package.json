@@ -1,0 +1,17 @@
+{
+  "name": "nodevideorecorder",
+  "version": "1.0.0",
+  "description": "screen recording API",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "record-screen": "^3.18.0",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "james bergen",
+  "license": "ISC"
+}
